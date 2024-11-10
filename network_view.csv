@@ -1,0 +1,18 @@
+,Network_ID,Network,Color,Number of ROIs
+0,1,Default,"(1.0, 0.0, 0.0)",41
+1,2,Visual,"(0.2, 0.2, 1.0)",39
+2,3,Fronto Parietal,"(1.0, 1.0, 0.0)",24
+3,4,Dorsal Attention,"(0.2, 1.0, 0.2)",32
+4,5,Ventral Attention,"(0.0, 0.4, 0.4)",23
+5,6,Salience,"(0.1, 0.1, 0.1)",4
+6,7,Cingulo Opercular,"(0.6, 0.0, 0.6)",40
+7,8,Somatomotor Dorsal,"(0.0, 1.0, 1.0)",38
+8,9,Somatomotor Lateral,"(1.0, 0.4, 0.0)",8
+9,10,Auditory,"(1.0, 0.0, 1.0)",24
+10,11,Parietal Memory Network,"(0.0, 0.5, 1.0)",5
+11,12,Temporal,"(0.8, 0.8, 0.8)",8
+12,13,None,"(0.25, 0.25, 0.25)",47
+13,14,Hippo Amygdala,"(1.0, 0.0, 0.5)",6
+14,15,Basal Ganglia,"(0.7, 0.7, 0.7)",16
+15,16,Thalamus,"(0.7, 0.5, 0.0)",12
+16,17,Cerebellum,"(0.0, 0.6, 0.0)",27
